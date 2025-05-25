@@ -57,11 +57,9 @@ const Experience: React.FC = () => {
           className="text-center mb-20"
         >
           <h2 className="font-display text-4xl md:text-5xl font-medium tracking-tight text-primary-900 mb-4">
-            Professional Experience
+             Experience
           </h2>
-          <p className="font-sans text-lg md:text-xl font-normal text-primary-600 tracking-normal leading-relaxed max-w-2xl mx-auto">
-            My journey in the industry
-          </p>
+         
         </motion.div>
 
         <motion.div
