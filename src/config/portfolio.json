@@ -36,7 +36,7 @@
       "description": "Learning Management System is a web application designed to facilitate online learning and course management. It allows educators to create, manage, and deliver courses, while providing students with a platform to access course materials and track their progress.",
       "tags": ["MongoDB", "Express.js", "React", "Node.js"],
       "image": "/lmsimg.png",
-      "url": "https://github.com/Sumithreddy6080/lms",
+      "url": "https://lms-tau-smoky.vercel.app/",
       "github": "https://github.com/Sumithreddy6080/lms"
     },
     {
