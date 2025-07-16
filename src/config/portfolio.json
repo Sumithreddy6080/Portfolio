@@ -28,7 +28,7 @@
       "description": "Pass-Man is a full-stack password management application that allows users to securely store, manage, and share their passwords. It features a user-friendly interface built with React, a robust backend powered by Node.js and Express.js, and a MongoDB database for secure data storage.",
       "tags": ["MongoDB", "Express.js", "React", "Node.js"],
       "image": "/passmanimg.png",
-      "url": "https://pass-man-fronted.onrender.com/",
+      "url": "https://passman.sumithreddy.me/",
       "github": "https://github.com/Sumithreddy6080/Pass-man"
     },
     {
@@ -36,7 +36,7 @@
       "description": "Learning Management System is a web application designed to facilitate online learning and course management. It allows educators to create, manage, and deliver courses, while providing students with a platform to access course materials and track their progress.",
       "tags": ["MongoDB", "Express.js", "React", "Node.js"],
       "image": "/lmsimg.png",
-      "url": "https://lms-tau-smoky.vercel.app/",
+      "url": "https://lms.sumithreddy.me/",
       "github": "https://github.com/Sumithreddy6080/lms"
     },
     {
@@ -44,8 +44,16 @@
       "description": " This web application automates the generation of question papers for educational institutions. It allows teachers to create question banks, select questions based on difficulty and topic, and generate customized question papers in various formats.",
       "tags": [ "Express.js", "Node.js","JavaScript", "HTML", "CSS"],
       "image": "/qpimg.png",
-      "url": "https://github.com/Sumithreddy6080/QP_Generater",
+      "url": "https://qpgen.sumithreddy.me/",
       "github": "https://github.com/Sumithreddy6080/QP_Generater"
+    },
+    {
+      "title": "Solar System Simulation in Three.js",
+      "description": " This project is a 3D simulation of the solar system using Three.js, showcasing the planets, their orbits, and the sun in a visually engaging manner. It provides an interactive experience for users to explore the solar system.",
+      "tags": [ "JavaScript", "HTML", "CSS", "Three.js", "WebGL"],
+      "image": "/solar.png",
+      "url": "https://solar.sumithreddy.me/",
+      "github": "https://github.com/Sumithreddy6080/solar_system_3js"
     }
   ],
   "skills": [
@@ -60,7 +68,12 @@
     { "name": "MongoDB" },
     { "name": "Express.js" },
     { "name": "REST APIs" },
-    { "name": "WebSockets" }
+    { "name": "WebSockets" },
+    { "name": "Tailwind CSS" },
+    { "name": "Bootstrap" },
+    { "name": "Three.js" },
+    { "name": "Figma" },
+    { "name": "Next js" }
   ],
   "experience": [
     {
