@@ -24,22 +24,6 @@
   },
   "projects": [
     {
-      "title": "Pass-Man",
-      "description": "Pass-Man is a full-stack password management application that allows users to securely store, manage, and share their passwords. It features a user-friendly interface built with React, a robust backend powered by Node.js and Express.js, and a MongoDB database for secure data storage.",
-      "tags": ["MongoDB", "Express.js", "React", "Node.js"],
-      "image": "/passmanimg.png",
-      "url": "https://passman.sumithreddy.me/",
-      "github": "https://github.com/Sumithreddy6080/Pass-man"
-    },
-    {
-      "title": "Learning Management System",
-      "description": "Learning Management System is a web application designed to facilitate online learning and course management. It allows educators to create, manage, and deliver courses, while providing students with a platform to access course materials and track their progress.",
-      "tags": ["MongoDB", "Express.js", "React", "Node.js"],
-      "image": "/lmsimg.png",
-      "url": "https://lms.sumithreddy.me/",
-      "github": "https://github.com/Sumithreddy6080/lms"
-    },
-    {
       "title": "Question Paper Generation Web App",
       "description": " This web application automates the generation of question papers for educational institutions. It allows teachers to create question banks, select questions based on difficulty and topic, and generate customized question papers in various formats.",
       "tags": [ "Express.js", "Node.js","JavaScript", "HTML", "CSS"],
@@ -54,6 +38,22 @@
       "image": "/solar.png",
       "url": "https://solar.sumithreddy.me/",
       "github": "https://github.com/Sumithreddy6080/solar_system_3js"
+    },
+    {
+      "title": "Pass-Man",
+      "description": "Pass-Man is a full-stack password management application that allows users to securely store, manage, and share their passwords. It features a user-friendly interface built with React, a robust backend powered by Node.js and Express.js, and a MongoDB database for secure data storage.",
+      "tags": ["MongoDB", "Express.js", "React", "Node.js"],
+      "image": "/passmanimg.png",
+      "url": "https://passman.sumithreddy.me/",
+      "github": "https://github.com/Sumithreddy6080/Pass-man"
+    },
+    {
+      "title": "Learning Management System",
+      "description": "Learning Management System is a web application designed to facilitate online learning and course management. It allows educators to create, manage, and deliver courses, while providing students with a platform to access course materials and track their progress.",
+      "tags": ["MongoDB", "Express.js", "React", "Node.js"],
+      "image": "/lmsimg.png",
+      "url": "https://lms.sumithreddy.me/",
+      "github": "https://github.com/Sumithreddy6080/lms"
     }
   ],
   "skills": [
